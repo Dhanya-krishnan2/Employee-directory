@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "image": "https://randomuser.me/api/portraits/women/60.jpg",
+    "name": "AHALYA KRISHNA",
+    "department": "Sales",
+    "email": "amelia@you.com",
+    "phone": "175-153-2345"
+  },
+  {
+    "id": 2,
+    "image": "https://randomuser.me/api/portraits/women/40.jpg",
+    "name": "MEEENUTTY CHANTU",
+    "department": "Engineering",
+    "email": "juthai@email.com",
+    "phone": "123-012-3996"
+  },
+  {
+    "id": 3,
+    "image": "https://randomuser.me/api/portraits/women/90.jpg",
+    "name": "LAKKSHMI NARAYAN",
+    "department": "Design",
+    "email": "kashami@email.com",
+    "phone": "123-456-7990"
+  },
+  {
+    "id": 4,
+    "image": "https://randomuser.me/api/portraits/women/60.jpg",
+    "name": "CHANDANA CHANDU",
+    "department": "Logistics",
+    "email": "manathittuva@email.com",
+    "phone": "123-332-9876"
+  },
+  {
+    "id": 5,
+    "image": "https://randomuser.me/api/portraits/women/77.jpg",
+    "name": "KAVITHA RAJ",
+    "department": "Marketing",
+    "email": "kikiparaj@email.com",
+    "phone": "123-987-9876"
+  },
+  {
+    "id": 6,
+    "image": "https://randomuser.me/api/portraits/women/0.jpg",
+    "name": "Ray Romano",
+    "department": "Management",
+    "email": "royro@email.com",
+    "phone": "555-435-6748"
+  },
+  {
+    "id": 7,
+    "image": "https://randomuser.me/api/portraits/women/33.jpg",
+    "name": "SHRIT RAJ",
+    "department": "Logistics",
+    "email": "90210@email.com",
+    "phone": "555-666-7766"
+  },
+  {
+    "id": 8,
+    "image": "https://randomuser.me/api/portraits/women/5.jpg",
+    "name": "RADIHKE CHANDU",
+    "department": "Marketing",
+    "email": "radika@email.com",
+    "phone": "555-223-4334"
+  },
+  {
+    "id": 9,
+    "image": "https://randomuser.me/api/portraits/women/35.jpg",
+    "name": "SHAINY VIMAL",
+    "department": "Sales",
+    "email": "shainyaviam@email.com",
+    "phone": "555-451-9974"
+  },
+  {
+    "id": 10,
+    "image": "https://randomuser.me/api/portraits/women/18.jpg",
+    "name": "MANI CHANDRA",
+    "department": "Engineering",
+    "email": "manichandra@email.com",
+    "phone": "123-111-3022"
+  },
+  {
+    "id": 11,
+    "image": "https://randomuser.me/api/portraits/women/54.jpg",
+    "name": "MMENA KSHI",
+    "department": "Admin",
+    "email": "aruthi@email.com",
+    "phone": "555-110-1110"
+  },
+  {
+    "id": 12,
+    "image": "https://randomuser.me/api/portraits/men/45.jpg",
+    "name": "ADITHYA SHARMA",
+    "department": "Design",
+    "email": "sharamki@email.com",
+    "phone": "123-001-0011"
+  },
+  {
+    "id": 13,
+    "image": "https://randomuser.me/api/portraits/women/39.jpg",
+    "name": "KANCHA MACHU",
+    "department": "Engineering",
+    "email": "kaachan@email.com",
+    "phone": "221-200-0902"
+  },
+  {
+    "id": 14,
+    "image": "https://randomuser.me/api/portraits/men/25.jpg",
+    "name": "BEENA SREE",
+    "department": "Engineering",
+    "email": "bisura@email.com",
+    "phone": "111-201-1052"
+  },
+  {
+    "id": 15,
+    "image": "https://randomuser.me/api/portraits/women/12.jpg",
+    "name": "APARANA APPU",
+    "department": "Management",
+    "email": "apra@email.com",
+    "phone": "909-309-1003"
+  },
+  {
+    "id": 16,
+    "image": "https://randomuser.me/api/portraits/men/16.jpg",
+    "name": "NARA YANDAN",
+    "department": "Sales",
+    "email": "avimakla@email.com",
+    "phone": "111-301-1920"
+  },
+  {
+    "id": 17,
+    "image": "https://randomuser.me/api/portraits/women/23.jpg",
+    "name": "POOJA MAHADEVAN",
+    "department": "Design",
+    "email": "poojamahedan@email.com",
+    "phone": "555-333-1020"
+  },
+  {
+    "id": 18,
+    "image": "https://randomuser.me/api/portraits/men/78.jpg",
+    "name": "PREM ANAND",
+    "department": "Management",
+    "email": "rpjamasn@email.com",
+    "phone": "123-633-1090"
+  },
+  {
+    "id": 19,
+    "image": "https://randomuser.me/api/portraits/men/77.jpg",
+    "name": "JAYA RAJ",
+    "department": "Marketing",
+    "email": "jayaraj@email.com",
+    "phone": "555-777-1020"
+  },
+  {
+    "id": 20,
+    "image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "name": "VENU NAGA",
+    "department": "Management",
+    "email": "venu@email.com",
+    "phone": "276-777-7000"
+  },
+  {
+    "id": 21,
+    "image": "https://randomuser.me/api/portraits/men/39.jpg",
+    "name": "KOTTAN THITIOA",
+    "department": "Design",
+    "email": "thittiyii@email.com",
+    "phone": "111-0293-7999"
+  },
+  {
+    "id": 22,
+    "image": "https://randomuser.me/api/portraits/men/12.jpg",
+    "name": "JANA RDHAN",
+    "department": "Sales",
+    "email": "janardhan@email.com",
+    "phone": "111-0000-8888"
+  },
+  {
+    "id": 23,
+    "image": "https://randomuser.me/api/portraits/men/30.jpg",
+    "name": "KARUNAJAR KAMVIL",
+    "department": "Engineering",
+    "email": "karunakaranan@email.com",
+    "phone": "555-123-8888"
+  },
+  {
+    "id": 24,
+    "image": "https://randomuser.me/api/portraits/men/75.jpg",
+    "name": "VISHNUMURTHI MAHADEVAN",
+    "department": "Design",
+    "email": "viahanmurthi@email.com",
+    "phone": "111-222-1234"
+  },
+  {
+    "id": 25,
+    "image": "https://randomuser.me/api/portraits/men/60.jpg",
+    "name": "ABIMANUE ARJUNAN",
+    "department": "Marketing",
+    "email": "chakkara@email.com",
+    "phone": "555-678-4000"
+  },
+  {
+    "id": 26,
+    "image": "https://randomuser.me/api/portraits/men/76.jpg",
+    "name": "NAVNEETH KRISHNAN",
+    "department": "Engineering",
+    "email": "dejhanj@email.com",
+    "phone": "123-321-2847"
+  },
+  {
+    "id": 27,
+    "image": "https://randomuser.me/api/portraits/men/0.jpg",
+    "name": "KUNHIKRISHANA THITTIYIL",
+    "department": "HEALTH",
+    "email": "kriahanm@email.com",
+    "phone": "123-345-9822"
+  },
+  {
+    "id": 28,
+    "image": "https://randomuser.me/api/portraits/men/26.jpg",
+    "name": "ANANTH KRISHNAN",
+    "department": "HEALTH",
+    "email": "ananth@email.com",
+    "phone": "876-809-1111"
+  }
+]
