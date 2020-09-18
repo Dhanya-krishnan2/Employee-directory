@@ -1,6 +1,6 @@
 # Employee Directory
  #### [Demo](https:)
-![screenshot](employee-directory.png)
+![screenshot](/output.gif)
 
 ## Description
 
