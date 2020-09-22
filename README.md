@@ -24,7 +24,7 @@ npm i
 
 ## Demo
 
-You can see a demo of this app [here](https://dhanya.github.io/react-employee-directory/)
+You can see a demo of this app [here](https://dhanya-krishnan2.github.io/Employee-directory/)
 
 ## Contributing
 
