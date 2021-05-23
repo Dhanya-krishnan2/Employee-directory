@@ -2,9 +2,7 @@ import React from "react";
 import EmployeeCard from "./EmployeeCard";
 
 
-function EmployeeCardList ({ data }) { 
-    // another fancy destructuring to avoid typing props.data.map down below
-    console.log(data);
+function EmployeeCardList ({ data }) { // another fancy destructuring to avoid typing props.data.map down below
     return (
         data.map(employee => (
             <EmployeeCard
@@ -17,6 +15,8 @@ function EmployeeCardList ({ data }) {
             />
             ))
     )
+     
+    
 }
 
 export default EmployeeCardList;
