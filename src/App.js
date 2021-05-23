@@ -18,10 +18,10 @@ function App() {
     function handleSortByName() {
         // sort array ascending or descending by first name
         if (!sorted) {
-            setEmployees(data.sort((a, b) => (a.name > b.name) ? 1 : -1));
+            setEmployees(data.filter((a, b) => (a.name > b.name) ? 2 : -2));
             setSorted(true);
         } else {
-            setEmployees(data.sort((a, b) => (a.name > b.name) ? -1 : 1));
+            setEmployees(data.filter((a, b) => (a.name > b.name) ? -2 : -2));
             setSorted(false);
         }
     }
@@ -43,8 +43,8 @@ function App() {
         <div>
             <Header/>
             <Layout>
-                <h1 className="title text-5xl text-gray-800 mt-16">Employee Directory</h1>
-                <p className="mb-16 text-md">Search for an employee or sort by Name or Category.</p>
+                <h1 className="title text-5xl text-gray-800 mt-16"><b><i>Employee Directory</i></b></h1>
+                <p className="mb-20 text-md">Search for an employee or sort by Name or Category.</p>
                 {/*the handleSearchTerm method and searchTerm state get passed down to the Navigation component via props with the onSearch and searchTerm props*/}
                 <Navigation
                     onSearch={handleSearchTerm}
